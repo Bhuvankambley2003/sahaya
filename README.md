@@ -40,3 +40,36 @@ Before running the app, ensure the following prerequisites are met:
 
    ```bash
    flutter doctor
+   ```
+   
+## Installation and Running
+
+## Follow these steps to install and run the app:
+
+## Clone the repository:
+```bash
+git clone https://github.com/Hemanpmanny/GDSC_SAHAYA.git
+```
+## Navigate to the project directory:
+
+```bash
+cd GDSC_SAHAYA-master
+```
+## Install dependencies:
+```bash
+flutter pub get
+```
+## Run the app:
+The app may take approximately 4 minutes to start.
+
+```bash
+flutter run
+```
+
+Important Notes
+⚠️ Caution:
+GitHub is actively scanning the code for API tokens. If any are detected, they will be reported to OpenAI for invalidation. Therefore, ensure that your OpenAI API key has available credits, and add it to the appropriate location for the chatbot to work correctly.
+
+Add your OpenAI API key here:
+
+GDSC_SAHAYA-master/lib/ChatBot/api_key.dart
