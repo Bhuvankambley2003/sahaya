@@ -1,5 +1,8 @@
 # sahaya
 
+![App Screenshot](main_page.png)  <!-- Add this line for the image -->
+[Video Demo](347133611-0af77d97-f208-4853-b870-3bb6d490924b.mp4)  <!-- Add this line for the video -->
+
 ### Before Running App (Prerequisites) 
 
 1. Make sure you have Flutter and Dart installed and set up on your machine. 
